@@ -15,7 +15,7 @@ export default function Footer() {
           <div>
             <h3 className="text-white font-black mb-4">Contacto</h3>
             <p className="text-zinc-400 text-sm">Ciudad Juarez, Chihuahua</p>
-            <a href="https://wa.me/526564618423" target="_blank" rel="noreferrer" className="block text-green-400 mt-2 text-sm">
+            <a href="https://wa.me/526481690255" target="_blank" rel="noreferrer" className="block text-green-400 mt-2 text-sm">
               WhatsApp
             </a>
           </div>

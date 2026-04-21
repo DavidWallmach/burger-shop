@@ -20,7 +20,7 @@ export default function Hero() {
             <a href="#menu" className="bg-amber-400 text-zinc-950 px-8 py-4 rounded-full font-black text-lg hover:bg-amber-300 transition-colors text-center">
               Ver Menu
             </a>
-            <a href="https://wa.me/526564618423" target="_blank" rel="noreferrer" className="border-2 border-amber-400 text-amber-400 px-8 py-4 rounded-full font-black text-lg hover:bg-amber-400 hover:text-zinc-950 transition-colors text-center">
+            <a href="https://wa.me/526481690255" target="_blank" rel="noreferrer" className="border-2 border-amber-400 text-amber-400 px-8 py-4 rounded-full font-black text-lg hover:bg-amber-400 hover:text-zinc-950 transition-colors text-center">
               WhatsApp
             </a>
           </div>
